@@ -1,0 +1,6 @@
+# set jest gitignore
+
+
+node_modules
+build
+
